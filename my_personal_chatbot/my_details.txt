@@ -1,0 +1,96 @@
+CONTACT
+SOFT SKILLS
+PROFILE
+074-3346438
+Phone:
+chathusha15@gmail.com
+Email Address:
+250,Nagoda,Munamalpa,
+Denipitiya
+Address:
+TECH SKILLS
+Teamwork
+Time Management
+Leadership
+Effective Communication
+Critical Thinking
+USHARI CHATHURANGA
+COMPUTER SCIENCE UNDERGRADUATE
+EDUCATION
+Computer Science undergraduate at the University of Colombo School
+of Computing with knowledge in Java, Spring Boot, web development,
+database management, and modern software engineering practices.
+Passionate about building practical full-stack applications and exploring
+emerging technologies in Artificial Intelligence and Cloud Computing.
+Experienced in academic and personal projects involving REST APIs,
+middleware integration, responsive web application development, and
+backend system design. Interested in developing scalable, intelligent,
+and cloud-based solutions that solve real-world problems. An active
+university club member currently serving as an Executive Committee
+Member of Pahasara, with strong teamwork, leadership,
+communication, and problem-solving skills
+Bachelor of Science in Computer Science 
+University Of Colombo School Of Computing
+Advance Level Examination 2022(2023) | Z-Score- 1.71
+Java 
+Springboot
+Java Script
+PHP
+MySQL
+HTML,CSS
+RabbitMQ
+React/Angular
+OOP
+Docker
+C/ C++
+Python
+AI Automation
+PROJECTS
+Event Planning System | 2 nd year acedemic
+Project (Grade A) | Group Project
+Designed and implemented a full‑stack, web‑based Event
+Planning System  that enables users to create and manage
+events, schedule services, coordinate vendors, process
+payments, and handle media uploads and notifications;
+responsible for system design, database modeling,
+back‑end and front‑end development using PHP (MVC),
+MySQL, JavaScript, HTML/CSS, and PHPMailer, and
+deployed on a WAMP stack.
+Technologies Used: HTML,CSS,Javascript,PHP, MYSQL,PhP
+Mailer, PayHere Sandbox, MVC
+Architecture
+Ordernary Level Examination 2019 (8A 1B)
+ST.Thomas Girls’ High school- Matara
+Southern Information Technology Education Centre
+C programming
+LANGUAGES
+COMPUTER SCIENCE UNDERGRADUATE
+PROJECTS
+Technologies Used: HTML,CSS,Javascript,Springboot,Java,
+Bootsrap, MYSQL,Maven, Postman
+SpringBoot Product Service  | Individual Project
+Swiftlogistic Middleware Integration
+Prototype | Group Project
+English
+Sinhala Built a full-stack product management app with a Spring
+Boot REST API and a simple HTML/CSS/JavaScript
+frontend. Implemented CRUD endpoints with Spring Data
+JPA and MySQL for persistence, and connected the UI to
+the backend using fetch/AJAX calls. Used a layered
+architecture (controller/service/repository) and tested
+endpoints with Postman during development.
+SwiftLogistics Middleware Prototype is a system designed
+to coordinate and streamline order processing across
+multiple business systems. It helps ensure smooth
+communication between different parts of the logistics
+workflow, improves data consistency, and provides real
+time visibility into order status from start to finish.
+Technologies Used: Python, Fast API, Uvicorn(ASGI Server),
+RabbitMQ, Docker
+ORGANIZATION
+Pahasara UCSC Media - Executive Committee
+Member
+Colombo Beacon -  Member
+Exploration Club Of UCSC - Member
+LinkedIn: https://www.linkedin.com/in/ushari
+chathuranga
