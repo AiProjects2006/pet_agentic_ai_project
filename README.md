@@ -27,7 +27,7 @@ My Personal Chatbot is a small Gradio app that turns Google Gemini into a person
 3. Create a `.env` file in the project root with my API key:
 
    ```env
-   GOOGLE_API_KEY=your_api_key_here
+   GOOGLE_API_KEY=My_api_key_here
    ```
 
 4. Add my personal profile text to `my_details.txt`.
